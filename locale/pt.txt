@@ -3,12 +3,12 @@
 ## Action
 
 ### URL
-LinkBehaviour_DB8816D4_F4A4_1E15_41E3_4AD8562ECE36.source = https://maps.app.goo.gl/vQBkRXxoTjrZK2JX6
 LinkBehaviour_E09C83E8_F659_CCD1_41DE_C57ADAA987D2.source = https://maps.app.goo.gl/vQBkRXxoTjrZK2JX6
-LinkBehaviour_C4F6442D_F4A4_1237_41E3_BC3DCBFCEB14.source = https://wa.me/5548999756015
+LinkBehaviour_DB8816D4_F4A4_1E15_41E3_4AD8562ECE36.source = https://maps.app.goo.gl/vQBkRXxoTjrZK2JX6
 LinkBehaviour_E3F51AC6_F659_5CD1_41D1_36C86E862EE9.source = https://wa.me/5548999756015
-LinkBehaviour_E3ACD32C_F658_CD51_41E7_42DF03FA32A6.source = https://www.google.com/search?kgmid=/g/11bwh9wdnw&hl=pt-BR&q=AnaCell+Acess%C3%B3rios+para+Celular+e+Tablet&kgs=278236c1bb6ba14f&shndl=17&source=sh/x/kp/osrp/m5/2
+LinkBehaviour_C4F6442D_F4A4_1237_41E3_BC3DCBFCEB14.source = https://wa.me/5548999756015
 LinkBehaviour_DB15260B_F4A4_31F3_41E2_04799689AA1B.source = https://www.google.com/search?kgmid=/g/11bwh9wdnw&hl=pt-BR&q=AnaCell+Acess%C3%B3rios+para+Celular+e+Tablet&kgs=278236c1bb6ba14f&shndl=17&source=sh/x/kp/osrp/m5/2
+LinkBehaviour_E3ACD32C_F658_CD51_41E7_42DF03FA32A6.source = https://www.google.com/search?kgmid=/g/11bwh9wdnw&hl=pt-BR&q=AnaCell+Acess%C3%B3rios+para+Celular+e+Tablet&kgs=278236c1bb6ba14f&shndl=17&source=sh/x/kp/osrp/m5/2
 LinkBehaviour_C4B92CE0_F4A4_122D_41C9_F238EEB8A568.source = https://www.instagram.com/ana.cell
 LinkBehaviour_E38E2A7B_F659_FFB6_41E5_275F7355FC66.source = https://www.instagram.com/ana.cell
 LinkBehaviour_E3A1CE8B_F65B_3757_41E2_0B63CCED36C6.source = https://www.instagram.com/rankingdigital360/
@@ -23,7 +23,6 @@ audiores_D3EC471B_F3E4_1E13_41E4_8ABF182518AE.mp3Url = media/audio_EC1F8FDC_F3E4
 audiores_D3EC471B_F3E4_1E13_41E4_8ABF182518AE.mp3Url = media/audio_EC1F8FDC_F3E4_0E14_41C6_07788A9D3723_pt.mp3
 audiores_D3EC471B_F3E4_1E13_41E4_8ABF182518AE.mp3Url = media/audio_EC1F8FDC_F3E4_0E14_41C6_07788A9D3723_pt.mp3
 audiores_D3EC471B_F3E4_1E13_41E4_8ABF182518AE.mp3Url = media/audio_EC1F8FDC_F3E4_0E14_41C6_07788A9D3723_pt.mp3
-audiores_EE9FB3EE_F6D8_CCD1_41D7_8AAB5B0B81FE.mp3Url = media/audio_EF132755_F6DB_55F3_41DC_F43A3CE525FF_pt.mp3
 audiores_EE711D80_F3BC_32EC_41E2_85CCB8A32403.mp3Url = media/audio_EF22936E_F3BD_F634_41CF_38A05943A612_pt.mp3
 
 ### Title
